@@ -15,7 +15,7 @@ A Laravel application for business management with specific functionalities for 
 - PHP >= 8.1
 - MySQL/MariaDB
 - Composer
-- Node.js y NPM
+- Node.js and NPM
 
 ## Installation
 
@@ -63,8 +63,8 @@ A Laravel application for business management with specific functionalities for 
 6. **Compile assets**
 
     ```bash
-    npm run build (Para producción)
-    npm run dev (Para desarrollo)
+    npm run build (For production)
+    npm run dev (For development)
     ```
 
 7. **Start the server**
