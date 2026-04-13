@@ -42,7 +42,7 @@ A Laravel application for business management with specific functionalities for 
 
 4. **Configure database**
 
-    Editar el archivo `.env` con tus credenciales de base de datos:
+    Update the `.env` file with your database credentials:
 
     ```env
     DB_CONNECTION=mysql
