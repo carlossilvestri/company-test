@@ -91,7 +91,3 @@ A Laravel application for business management with specific functionalities for 
 - **Base de Datos**: MySQL
 - **PDF Generation**: DOMPDF
 - **Testing**: PHPUnit
-
-## License
-
-Este proyecto está licenciado bajo el MIT License.
