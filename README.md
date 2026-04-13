@@ -23,7 +23,7 @@ A Laravel application for business management with specific functionalities for 
 
     ```bash
     git clone <repository-url>
-    cd company
+    cd company-test
     ```
 
 2. **Install dependencies**
